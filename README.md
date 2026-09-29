@@ -1,12 +1,12 @@
-# 💰 Expense Tracker
+ Expense Tracker
 
 A simple and interactive **Expense Tracker** built with **React, TypeScript, and CSS**.
 
 The application allows users to add, edit, delete, and manage their expenses while organizing them into different categories.
 
-## ✨ Features
+ Features
 
-### ➕ Add Expenses
+ Add Expenses
 
 Users can add a new expense by providing:
 
@@ -34,12 +34,12 @@ Users can delete an expense using the **Delete** button.
 
 Expenses can be organized into different categories:
 
-* 🍔 Food
-* 🚗 Transport
-* 🛍️ Shopping
-* 💡 Bills
-* 🎬 Entertainment
-* 📦 Others
+*  Food
+*  Transport
+*  Shopping
+*  Bills
+*  Entertainment
+*  Others
 
 ### ✅ Form Validation
 
